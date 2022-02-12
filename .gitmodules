@@ -1,0 +1,6 @@
+[submodule "cinemafinder"]
+	path = cinemafinder
+	url = git@github.com:chessdude1/cinemafinder.git
+[submodule "CinemaFinder-backend"]
+	path = CinemaFinder-backend
+	url = git@github.com:chessdude1/CinemaFinder-backend.git
